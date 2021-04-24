@@ -15,4 +15,4 @@ npm install
 npm start
 ```
 
-You can also visit the [LIVE SITE]("https://horzu.github.io/budget-tracker/")
+You can also visit the live site here: "https://horzu.github.io/budget-tracker/"
